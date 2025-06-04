@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../py01-fundamentos"
+		},
+		{
+			"path": "../py02-comprohensions-functions-errors"
+		}
+	],
+	"settings": {}
+}
