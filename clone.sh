@@ -1,7 +1,5 @@
 #!/bin/sh
 
-
-
 if [ ! -f "directories.txt" ]; then
     echo "Error: directories.txt file not found"
     exit 1
@@ -13,4 +11,4 @@ while read -r repo; do
         echo "Cloning $repo..."
         git clone "https://github.com/CristhianOrdazWork/${repo}.git"
     fi
-done < "accountx-workspace/directories.txt"
+done < "python-workspace/directories.txt"

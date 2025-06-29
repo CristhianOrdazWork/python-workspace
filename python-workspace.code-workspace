@@ -4,10 +4,10 @@
 			"path": "."
 		},
 		{
-			"path": "../py01-fundamentos"
+			"path": "../python01-fundamentos"
 		},
 		{
-			"path": "../py02-comprohensions-functions-errors"
+			"path": "../python02-comprohensions-functions-errors"
 		}
 	],
 	"settings": {}

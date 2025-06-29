@@ -1,2 +1,2 @@
-py01-fundamentos
-py02-comprohensions-functions-errors
+python01-fundamentos
+python02-comprohensions-functions-errors
